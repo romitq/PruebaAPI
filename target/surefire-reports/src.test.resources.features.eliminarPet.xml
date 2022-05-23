@@ -1,0 +1,8 @@
+<testsuite failures="0" name="src/test/resources/features/eliminarPet.feature" skipped="0" tests="1" time="2.643237">
+  <testcase classname="src.test.resources.features.eliminarPet" name="Eliminar una mascota" time="2.643237">
+    <system-out>* url 'https://petstore.swagger.io/v2' .................................... passed
+* path '/pet/' + '9223372000001119377' .................................... passed
+* method DELETE ........................................................... passed
+* status 200 .............................................................. passed</system-out>
+  </testcase>
+</testsuite>
